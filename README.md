@@ -1,7 +1,13 @@
-# Hi, I'm Venkata Srimannarayana Yasam 👋  
-**Cloud & DevOps Engineer | Automating Infrastructure | Building Scalable Cloud Solutions**
+<div align="center">
 
----
+# Hey there, I'm  
+## ✨ **Venkata Srimannarayana Yasam** 👋  
+
+### 🚀 Cloud & DevOps Engineer | AWS Enthusiast | IaC Lover | Obsessed with Automation
+
+> 💻 Currently setting things up ☕️ and shipping cloud infrastructure from my laptop
+
+</div>
 
 ## About Me
 - 🚀 Cloud DevOps Engineer specializing in AWS, CI/CD, and Infrastructure as Code.  
