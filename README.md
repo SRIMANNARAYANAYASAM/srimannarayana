@@ -1,7 +1,3 @@
-<!-- Hero Banner -->
-<p align="center">
-  <img src="banner.png" alt="Venkata Srimannarayana Yasam Banner" width="100%" />
-</p>
 
 <!-- Intro Section -->
 <h2 align="center">Hey there 👋 I'm <span style="color:#f97316"><strong>Venkata Srimannarayana Yasam</strong></span></h2>
@@ -10,11 +6,7 @@
   💻 <strong>Cloud & DevOps Engineer</strong> • ☁️ AWS Enthusiast • ⚙️ IaC Automator • 📈 Obsessed with Observability
 </p>
 
-<h2 align="center">🚀 Tech Toolbox of Venkata Srimannarayana Yasam</h2>
 
-<p align="center" style="font-weight: bold; font-size: 1.1rem">
-  Cloud ☁️ | DevOps 🔧 | IaC 🏗️ | Automation 🤖 | Programming 💻 | Monitoring 📊 | Databases 💾 | Tooling 🧰
-</p>
 
 ---
 
