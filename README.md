@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Venkata Srimannarayana Yasam - DevOps Engineer Banner" width="100%" />
+</p>
+
 <div align="center">
 
 # Hey there, I'm  
@@ -8,6 +12,7 @@
 > 💻 Currently setting things up ☕️ and shipping cloud infrastructure from my laptop
 
 </div>
+
 
 ## About Me
 - 🚀 Cloud DevOps Engineer specializing in AWS, CI/CD, and Infrastructure as Code.  
