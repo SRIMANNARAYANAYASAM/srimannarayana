@@ -1,60 +1,67 @@
+<!-- Hero Banner -->
 <p align="center">
-  <img src="banner.png" alt="Venkata Srimannarayana Yasam - DevOps Engineer Banner" width="100%" />
+  <img src="banner.png" alt="Venkata Srimannarayana Yasam Banner" width="100%" />
 </p>
 
-<div align="center">
+<!-- Intro Section -->
+<h2 align="center">Hey there 👋 I'm <span style="color:#f97316"><strong>Venkata Srimannarayana Yasam</strong></span></h2>
 
-# Hey there, I'm  
-## ✨ **Venkata Srimannarayana Yasam** 👋  
+<p align="center">
+  💻 <strong>Cloud & DevOps Engineer</strong> • ☁️ AWS Enthusiast • ⚙️ IaC Automator • 📈 Obsessed with Observability
+</p>
 
-### 🚀 Cloud & DevOps Engineer | AWS Enthusiast | IaC Lover | Obsessed with Automation
-
-> 💻 Currently setting things up ☕️ and shipping cloud infrastructure from my laptop
-
-</div>
-
-
-## About Me
-- 🚀 Cloud DevOps Engineer specializing in AWS, CI/CD, and Infrastructure as Code.  
-- 🛠️ Experienced with Docker, Kubernetes, Terraform, and AWS CDK.  
-- 📈 Passionate about automation, observability, and building scalable cloud-native applications.  
-- 💼 Open to roles in Cloud Engineering, DevOps, and Platform Engineering.  
+<p align="center">
+  <em>Currently shipping cloud infrastructure from my laptop 🧠⚡</em>
+</p>
 
 ---
 
-## AWS Certifications
-[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?logo=amazon-aws)](https://aws.amazon.com/certification/)
-[![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-blue?logo=amazon-aws)](https://aws.amazon.com/certification/)
+<!-- Badges Section -->
+<h3 align="center">🧰 Tech Stack & Tools</h3>
 
-- **AWS Certified Cloud Practitioner**  
-  - Achieved: March 2024 | Valid Until: March 2027  
-- **AWS Certified Solutions Architect – Associate**  
-  - Achieved: June 2024 | Valid Until: June 2027  
-
----
-
-## Skills & Tools
-- **Cloud:** AWS (EC2, EKS, ECS, Lambda, CloudFormation, CDK)  
-- **DevOps:** Docker, Kubernetes, Jenkins, GitHub Actions, ArgoCD  
-- **IaC:** Terraform, Ansible  
-- **Monitoring:** CloudWatch, ELK Stack, Prometheus, Grafana  
-- **Languages:** Python, Bash, TypeScript  
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CDK-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+</p>
 
 ---
 
-## Featured Projects
-- [**AWS Serverless App**](https://github.com/your-username/serverless-app): Built a serverless application using Lambda, API Gateway, and DynamoDB.  
-- [**CI/CD Pipeline with Jenkins & Kubernetes**](https://github.com/your-username/cicd-pipeline): Automated deployments to EKS using Helm and GitOps.  
-- [**Infrastructure as Code with Terraform**](https://github.com/your-username/terraform-infra): Scalable multi-environment infrastructure on AWS.  
+<!-- Projects -->
+### 📦 Featured Projects
+
+- 🔧 [**Serverless URL Shortener**](https://github.com/srimanyasam/serverless-app)  
+  <small>Lambda + API Gateway + DynamoDB</small>
+
+- ⚙️ [**CI/CD to EKS with GitOps**](https://github.com/srimanyasam/cicd-pipeline)  
+  <small>Jenkins + Helm + GitHub Actions</small>
+
+- 🧱 [**Terraform Infra Modules**](https://github.com/srimanyasam/terraform-infra)  
+  <small>Reusable multi-env modules for AWS</small>
 
 ---
 
-## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+<!-- GitHub Stats Section -->
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=srimanyasam&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srimanyasam&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
 ---
 
-## Connect with Me
-- 📧 Email: srimanyasam0714@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile/)  
-- 🌐 [Portfolio](https://your-portfolio.com)
+<!-- Contact -->
+<h3 align="center">📬 Connect With Me</h3>
+
+<p align="center">
+  <a href="mailto:srimanyasam0714@gmail.com">
+    <img src="https://img.shields.io/badge/email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.s
