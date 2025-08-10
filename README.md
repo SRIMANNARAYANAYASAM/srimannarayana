@@ -72,10 +72,15 @@ Not just “familiar” with DevOps — I **live** it. My work has:
 <section style="font-family: Arial, sans-serif; max-width: 700px; margin: auto;">
   <h2>🎓 Education & Certifications</h2>
 
+ <section style="font-family: Arial, sans-serif; max-width: 700px; margin: auto;">
+  <h2>🎓 Education & Certifications</h2>
+
   <!-- Kennesaw State University -->
   <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <div style="flex-shrink: 0; width: 70px; height: 70px; border-radius: 50%; overflow: hidden; border: 2px solid #ddd; margin-right: 15px;">
-      <img src="YOUR_KSU_LOGO_URL" alt="KSU Logo" style="width: 100%; height: 100%; object-fit: cover;">
+      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Kennesaw_State_University_seal.svg/1024px-Kennesaw_State_University_seal.svg.png" 
+           alt="KSU Logo" 
+           style="width: 100%; height: 100%; object-fit: cover;">
     </div>
     <div>
       <strong>Master of Science - Computer Science (Cloud Computing Focus)</strong><br>
@@ -88,7 +93,16 @@ Not just “familiar” with DevOps — I **live** it. My work has:
   <!-- VVIT -->
   <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <div style="flex-shrink: 0; width: 70px; height: 70px; border-radius: 50%; overflow: hidden; border: 2px solid #ddd; margin-right: 15px;">
-      <img src="YOUR_VVIT_LOGO_URL" alt="VVIT Logo" style=_
+      <img src="https://www.facultytick.com/wp-content/uploads/2022/04/VVIT-Logo.jpg" 
+           alt="VVIT Logo" 
+           style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <div>
+      <strong>Bachelor of Technology - Information Technology</strong><br>
+      📍 Vasireddy Venkatadri Institute of Technology | Aug 2019 - May 2023
+    </div>
+  </div>
+</section>
 
 
 ## 🤝 Let’s Talk
