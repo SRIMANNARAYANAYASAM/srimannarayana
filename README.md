@@ -68,6 +68,29 @@ Not just “familiar” with DevOps — I **live** it. My work has:
 
 ---
 
+
+<section style="font-family: Arial, sans-serif; max-width: 700px; margin: auto;">
+  <h2>🎓 Education & Certifications</h2>
+
+  <!-- Kennesaw State University -->
+  <div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <div style="flex-shrink: 0; width: 70px; height: 70px; border-radius: 50%; overflow: hidden; border: 2px solid #ddd; margin-right: 15px;">
+      <img src="YOUR_KSU_LOGO_URL" alt="KSU Logo" style="width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <div>
+      <strong>Master of Science - Computer Science (Cloud Computing Focus)</strong><br>
+      📍 Kennesaw State University | Jan 2024 - May 2025 | STEM Designated<br>
+      📚 Coursework: Cloud Infrastructure, DevOps Automation, Cloud Security,<br>
+      Network Architecture, Infrastructure as Code, AWS Solutions Design
+    </div>
+  </div>
+
+  <!-- VVIT -->
+  <div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <div style="flex-shrink: 0; width: 70px; height: 70px; border-radius: 50%; overflow: hidden; border: 2px solid #ddd; margin-right: 15px;">
+      <img src="YOUR_VVIT_LOGO_URL" alt="VVIT Logo" style=_
+
+
 ## 🤝 Let’s Talk
 - 💼 [LinkedIn](#)  
 - 🌐 [Portfolio Website](#)  
