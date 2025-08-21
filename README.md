@@ -7,12 +7,12 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&lines=Certified+Cloud+Professional;AWS+%7C+AZURE+%7C+GCP" alt="Typing SVG" />
 </p>
-
 <div align="center">
 
-![Cloud Engineer](https://img.shields.io/badge/Role-Cloud%20Engineer-0099ff?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![DevOps](https://img.shields.io/badge/Focus-DevOps-ff6b6b?style=for-the-badge&logo=docker&logoColor=white)
+![Role](https://img.shields.io/badge/Role-Multi--Cloud%20Solutions%20Engineer-0099ff?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Specialization](https://img.shields.io/badge/Focus-DevOps%20%7C%20DevSecOps-ff6b6b?style=for-the-badge&logo=docker&logoColor=white)
 ![Experience](https://img.shields.io/badge/Experience-4%2B%20Years-4ecdc4?style=for-the-badge&logo=calendar&logoColor=white)
+![Cloud Platforms](https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure%20%7C%20GCP-f39c12?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/venkata-yasam)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:venkatayasam0714@gmail.com)
