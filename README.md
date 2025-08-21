@@ -23,28 +23,7 @@
 
 I am a Multi-Cloud DevOps Engineer with 4+ years of experience working across AWS, Azure, and GCP. My expertise includes automation, CI/CD pipelines, and Infrastructure as Code to build scalable and secure cloud solutions. I focus on DevSecOps practices, ensuring security is integrated into every stage of development. Passionate about optimizing cloud infrastructure, I thrive on delivering reliable, cost-efficient, and high-performing systems.
 
-### 🎯 Quick Stats
 
-<table align="center">
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/AWS-Projects-orange?style=flat-square&logo=amazon-aws&logoColor=white"/><br/>
-<b>5+ Projects</b>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Certifications-3-blue?style=flat-square&logo=certificate&logoColor=white"/><br/>
-<b>AWS Certified</b>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Uptime-99.9%25-green?style=flat-square&logo=statuspage&logoColor=white"/><br/>
-<b>High Availability</b>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Automation-CI/CD-purple?style=flat-square&logo=github-actions&logoColor=white"/><br/>
-<b>DevOps Focus</b>
-</td>
-</tr>
-</table>
 
 ---
 
