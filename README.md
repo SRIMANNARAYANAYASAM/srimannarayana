@@ -26,6 +26,15 @@ I am a Multi-Cloud DevOps Engineer with 4+ years of experience working across AW
 
 
 ---
+## 📜 Certifications
+
+| Certification                              | Issuer                 | Status   | Expiration Date |
+|--------------------------------------------|------------------------|----------|-----------------|
+| AWS Certified Cloud Practitioner           | Amazon Web Services    | ✅ Active | Nov/2026*       |
+| AWS Certified Solutions Architect – Associate | Amazon Web Services | ✅ Active | Mar/2026*       |
+| Java Full Stack Certification              | Wipro                  | ✅ Active | No Expiry       |
+
+\* Expiration dates depend on when you earned them.
 
 ## 🛠️ Technical Arsenal
 
