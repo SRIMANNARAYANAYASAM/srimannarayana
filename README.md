@@ -9,13 +9,8 @@
 </p>
 <div align="center">
 
-![Role](https://img.shields.io/badge/Role-Multi--Cloud%20Solutions%20Engineer-0099ff?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Specialization](https://img.shields.io/badge/Focus-DevOps%20%7C%20DevSecOps-ff6b6b?style=for-the-badge&logo=docker&logoColor=white)
+![Role](https://img.shields.io/badge/Role-Multi--Cloud%20DevSecOps%20Engineer-0099ff?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Experience](https://img.shields.io/badge/Experience-4%2B%20Years-4ecdc4?style=for-the-badge&logo=calendar&logoColor=white)
-![Cloud Platforms](https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure%20%7C%20GCP-f39c12?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/venkata-yasam)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:venkatayasam0714@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-green?style=for-the-badge&logo=github-pages)](https://venkata0714.github.io)
 
 </div>
