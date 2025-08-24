@@ -51,7 +51,7 @@ AWS Core Services:
   Security: [IAM, CloudTrail, KMS, Secrets Manager]
   DevOps: [CloudFormation, Systems Manager, CodePipeline, CodeBuild, CodeDeploy, CodeCommit, CloudWatch]
 ```
-```html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -137,4 +137,4 @@ AWS Core Services:
   </div>
 </body>
 </html>
-```
+
