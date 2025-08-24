@@ -34,7 +34,6 @@ I am a Multi-Cloud DevOps Engineer with 4+ years of experience working across AW
 | AWS Certified Solutions Architect – Associate | Amazon Web Services | ✅ Active | Mar/2026*       |
 | Java Full Stack Certification              | Wipro                  | ✅ Active | No Expiry       |
 
-```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -42,6 +41,7 @@ I am a Multi-Cloud DevOps Engineer with 4+ years of experience working across AW
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>DevOps Portfolio • Tech Stack</title>
   <meta name="description" content="Multi‑Cloud DevOps Engineer Tech Stack" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='0.9em' font-size='90'>☁️</text></svg>">
   <style>
     :root{
       --bg: #0f172a;        /* slate-900 */
@@ -94,31 +94,4 @@ I am a Multi-Cloud DevOps Engineer with 4+ years of experience working across AW
 
       <p class="line"><span class="label">Cloud Platforms &amp; Services:</span> AWS (EC2, S3, RDS, Aurora, EFS, ElastiCache, Route 53, CloudFront, IAM, VPC, ELB, Auto Scaling, Lambda, ECS/EKS Fargate, Secrets Manager), Azure, GCP.</p>
 
-      <p class="line"><span class="label">DevOps &amp; Automation:</span> Git (GitHub, GitLab, Bitbucket), Maven, CI/CD (Jenkins, GitHub Actions, GitLab CI, Bamboo), Infrastructure (Terraform, CloudFormation, Ansible, Puppet, Chef), ArgoCD, Selenium, Nagios, Jira, Confluence, Bash/Shell scripting.</p>
-
-      <p class="line"><span class="label">Containers &amp; Orchestration:</span> Docker, Kubernetes (EKS, AKS, GKE), Helm, Blue-Green &amp; Canary Deployments, OpenShift, Docker Hub.</p>
-
-      <p class="line"><span class="label">Monitoring &amp; Logging:</span> Prometheus, Grafana, AWS CloudWatch, ELK (Elasticsearch, Logstash, Kibana), Loki, Splunk, Datadog, New Relic.</p>
-
-      <p class="line"><span class="label">Security &amp; Networking:</span> IAM, AWS KMS, Vault, SGs, NACLs, VPN/IPSec, Firewall, SSL/TLS, Compliance &amp; Auditing, Secrets Manager.</p>
-
-      <p class="line"><span class="label">Other Tools:</span> SonarQube, Trivy, Redis, Nexus/Artifactory, OpenCV, Q‑learning, PID Control.</p>
-
-      <details>
-        <summary>☁️ AWS Core Services — YAML view</summary>
-<pre><code>AWS Core Services:
-  Compute: [EC2, Lambda, ECS Fargate, Auto Scaling, Elastic Beanstalk]
-  Storage: [S3, EFS, EBS]
-  Database: [RDS, DynamoDB, Aurora, ElastiCache, Redshift]
-  Networking: [VPC, CloudFront, Route 53, API Gateway, Elastic Load Balancer (ALB/NLB)]
-  Security: [IAM, CloudTrail, KMS, Secrets Manager]
-  DevOps: [CloudFormation, Systems Manager, CodePipeline, CodeBuild, CodeDeploy, CodeCommit, CloudWatch]</code></pre>
-      </details>
-    </section>
-
-    <footer>© 2025 • DevOps Portfolio • HTML &amp; CSS • Ready for GitHub Pages</footer>
-  </div>
-</body>
-</html>
-```
-
+      <p class="li
