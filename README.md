@@ -23,7 +23,7 @@
 
 I am a Multi-Cloud DevOps Engineer with 4+ years of experience working across AWS, Azure, and GCP. My expertise includes automation, CI/CD pipelines, and Infrastructure as Code to build scalable and secure cloud solutions. I focus on DevSecOps practices, ensuring security is integrated into every stage of development. Passionate about optimizing cloud infrastructure, I thrive on delivering reliable, cost-efficient, and high-performing systems.
 
-
+```
 AWS Core Services:
   Compute: [EC2, Lambda, ECS Fargate, Auto Scaling, Elastic Beanstalk]
   Storage: [S3, EFS, EBS,]
@@ -32,7 +32,7 @@ AWS Core Services:
   Security: [IAM, CloudTrail, KMS, Secrets Manager]
   DevOps: [CloudFormation, Systems Manager, CodePipeline,AWS CodeBuild, AWS CodeDeploy, AWS CodeCommit Amazon CloudWatch]
 
-
+```
 
 
 
