@@ -22,7 +22,7 @@
 > *"Architecting scalable cloud solutions with passion for automation and innovation"*
 
 I am a Multi-Cloud DevOps Engineer with 4+ years of experience working across AWS, Azure, and GCP. My expertise includes automation, CI/CD pipelines, and Infrastructure as Code to build scalable and secure cloud solutions. I focus on DevSecOps practices, ensuring security is integrated into every stage of development. Passionate about optimizing cloud infrastructure, I thrive on delivering reliable, cost-efficient, and high-performing systems.
-
+``` yaml
 <!doctype html>
 <html lang="en">
 <head>
@@ -321,6 +321,7 @@ I am a Multi-Cloud DevOps Engineer with 4+ years of experience working across AW
   </script>
 </body>
 </html>
+```
 
 
 
