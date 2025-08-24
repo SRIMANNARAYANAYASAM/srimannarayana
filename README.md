@@ -50,7 +50,7 @@ AWS Core Services:
   Networking: [VPC, CloudFront, Route 53, API Gateway, Elastic Load Balancer (ALB/NLB)]
   Security: [IAM, CloudTrail, KMS, Secrets Manager]
   DevOps: [CloudFormation, Systems Manager, CodePipeline, CodeBuild, CodeDeploy, CodeCommit, CloudWatch]
-
+```
 </style>
 </head>
 <body>
