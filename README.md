@@ -34,58 +34,6 @@ I am a Multi-Cloud DevOps Engineer with 4+ years of experience working across AW
 | AWS Certified Solutions Architect – Associate | Amazon Web Services | ✅ Active | Mar/2026*       |
 | Java Full Stack Certification              | Wipro                  | ✅ Active | No Expiry       |
 
-html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>DevOps Engineer Portfolio</title>
-  <style>
-    body {
-      margin: 0;
-      font-family: Arial, sans-serif;
-      background: linear-gradient(135deg, #0f172a, #1e293b);
-      color: white;
-      line-height: 1.6;
-    }
-    header {
-      text-align: center;
-      padding: 2rem 1rem;
-    }
-    header h1 {
-      font-size: 2rem;
-      margin: 0;
-    }
-    header p {
-      color: #94a3b8;
-      font-size: 1rem;
-    }
-    section {
-      max-width: 900px;
-      margin: 2rem auto;
-      padding: 1rem;
-    }
-    h2 {
-      border-left: 5px solid #38bdf8;
-      padding-left: 0.75rem;
-      margin-bottom: 0.75rem;
-      color: #38bdf8;
-      font-size: 1.3rem;
-    }
-    p {
-      background: #1e293b;
-      padding: 0.75rem 1rem;
-      border-radius: 0.5rem;
-      margin: 0.25rem 0;
-      font-size: 1rem;
-    }
-    footer {
-      text-align: center;
-      padding: 2rem 1rem;
-      font-size: 0.85rem;
-      color: #94a3b8;
-    }
   </style>
 </head>
 <body>
