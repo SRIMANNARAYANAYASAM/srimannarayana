@@ -34,6 +34,7 @@ I am a Multi-Cloud DevOps Engineer with 4+ years of experience working across AW
 | AWS Certified Solutions Architect – Associate | Amazon Web Services | ✅ Active | Mar/2026*       |
 | Java Full Stack Certification              | Wipro                  | ✅ Active | No Expiry       |
 
+html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -46,6 +47,7 @@ I am a Multi-Cloud DevOps Engineer with 4+ years of experience working across AW
       font-family: Arial, sans-serif;
       background: linear-gradient(135deg, #0f172a, #1e293b);
       color: white;
+      line-height: 1.6;
     }
     header {
       text-align: center;
@@ -60,34 +62,23 @@ I am a Multi-Cloud DevOps Engineer with 4+ years of experience working across AW
       font-size: 1rem;
     }
     section {
-      max-width: 1000px;
+      max-width: 900px;
       margin: 2rem auto;
       padding: 1rem;
     }
     h2 {
-      border-bottom: 2px solid #6366f1;
-      padding-bottom: 0.5rem;
-      margin-bottom: 1rem;
+      border-left: 5px solid #38bdf8;
+      padding-left: 0.75rem;
+      margin-bottom: 0.75rem;
       color: #38bdf8;
+      font-size: 1.3rem;
     }
-    ul {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-      gap: 0.75rem;
-      list-style: none;
-      padding: 0;
-    }
-    li {
+    p {
       background: #1e293b;
-      padding: 0.75rem;
-      border-radius: 0.75rem;
-      text-align: center;
-      font-size: 0.95rem;
-      transition: transform 0.2s;
-    }
-    li:hover {
-      background: #334155;
-      transform: scale(1.05);
+      padding: 0.75rem 1rem;
+      border-radius: 0.5rem;
+      margin: 0.25rem 0;
+      font-size: 1rem;
     }
     footer {
       text-align: center;
@@ -105,90 +96,47 @@ I am a Multi-Cloud DevOps Engineer with 4+ years of experience working across AW
 
   <section>
     <h2>Programming Languages</h2>
-    <ul>
-      <li>C</li>
-      <li>Python</li>
-      <li>JavaScript</li>
-      <li>Java</li>
-      <li>OOPs</li>
-      <li>Bash/Shell</li>
-    </ul>
+    <p>Programming Languages: C, Python, JavaScript, Java, OOPs, Bash/Shell.</p>
   </section>
 
   <section>
     <h2>Database Systems</h2>
-    <ul>
-      <li>MySQL</li>
-      <li>PostgreSQL</li>
-      <li>MongoDB</li>
-      <li>DynamoDB</li>
-      <li>Amazon RDS</li>
-      <li>Aurora</li>
-      <li>ElastiCache</li>
-    </ul>
+    <p>Database Systems: MySQL, PostgreSQL, MongoDB, DynamoDB, Amazon RDS, Aurora, ElastiCache.</p>
   </section>
 
   <section>
     <h2>Cloud Platforms & Services</h2>
-    <ul>
-      <li>AWS (EC2, S3, RDS, Aurora, EFS, Route 53, CloudFront, IAM, VPC, ELB, Auto Scaling, Lambda, ECS/EKS, Fargate, Secrets Manager)</li>
-      <li>Azure</li>
-      <li>GCP</li>
-    </ul>
+    <p>Cloud Platforms & Services: AWS (EC2, S3, RDS, Aurora, EFS, Route 53, CloudFront, IAM, VPC, ELB, Auto Scaling, Lambda, ECS/EKS, Fargate, Secrets Manager), Azure, GCP.</p>
   </section>
 
   <section>
     <h2>DevOps & Automation</h2>
-    <ul>
-      <li>Git (GitHub, GitLab, Bitbucket)</li>
-      <li>Maven</li>
-      <li>CI/CD (Jenkins, GitHub Actions, GitLab CI, Bamboo)</li>
-      <li>Terraform</li>
-      <li>CloudFormation</li>
-      <li>Ansible</li>
-      <li>Puppet</li>
-      <li>Chef</li>
-      <li>ArgoCD</li>
-      <li>Selenium</li>
-      <li>Nagios</li>
-      <li>Jira</li>
-      <li>Confluence</li>
-    </ul>
+    <p>DevOps & Automation: Git (GitHub, GitLab, Bitbucket), Maven, CI/CD (Jenkins, GitHub Actions, GitLab CI, Bamboo), Terraform, CloudFormation, Ansible, Puppet, Chef, ArgoCD, Selenium, Nagios, Jira, Confluence.</p>
   </section>
 
   <section>
     <h2>Containers & Orchestration</h2>
-    <ul>
-      <li>Docker</li>
-      <li>Kubernetes (EKS, AKS, GKE)</li>
-      <li>Helm</li>
-      <li>Blue-Green & Canary Deployments</li>
-      <li>OpenShift</li>
-      <li>Docker Hub</li>
-    </ul>
+    <p>Containers & Orchestration: Docker, Kubernetes (EKS, AKS, GKE), Helm, Blue-Green & Canary Deployments, OpenShift, Docker Hub.</p>
   </section>
 
   <section>
     <h2>Monitoring & Logging</h2>
-    <ul>
-      <li>Prometheus</li>
-      <li>Grafana</li>
-      <li>AWS CloudWatch</li>
-      <li>ELK (Elasticsearch, Logstash, Kibana)</li>
-      <li>Loki</li>
-      <li>Splunk</li>
-      <li>Datadog</li>
-      <li>New Relic</li>
-    </ul>
+    <p>Monitoring & Logging: Prometheus, Grafana, AWS CloudWatch, ELK (Elasticsearch, Logstash, Kibana), Loki, Splunk, Datadog, New Relic.</p>
   </section>
 
   <section>
     <h2>Security & Networking</h2>
-    <ul>
-      <li>IAM</li>
-      <li>AWS KMS</li>
-      <li>Vault</li>
-      <li>SGs</li>
-      <li>NACLs</li>
-      <li>VPN/IPSec</li>
-      <li>F
+    <p>Security & Networking: IAM, AWS KMS, Vault, SGs, NACLs, VPN/IPSec, Firewall, SSL/TLS, Compliance & Auditing, Secrets Manager.</p>
+  </section>
+
+  <section>
+    <h2>Other Tools</h2>
+    <p>Other Tools: SonarQube, Trivy, Redis, Nexus/Artifactory, OpenCV, Q-learning, PID Control.</p>
+  </section>
+
+  <footer>
+    © 2025 DevOps Engineer Portfolio • Built with HTML & CSS • Hosted on GitHub Pages
+  </footer>
+</body>
+</html>
+```
