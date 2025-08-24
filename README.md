@@ -35,9 +35,3 @@ I am a Multi-Cloud DevOps Engineer with 4+ years of experience working across AW
 | Java Full Stack Certification              | Wipro                  | ✅ Active | No Expiry       |
 
 
-
-![Visitor Count](https://profile-counter.glitch.me/venkata0714/count.svg)
-</div>
-
-
-</div>
