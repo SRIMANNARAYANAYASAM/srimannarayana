@@ -34,7 +34,24 @@ I am a Multi-Cloud DevOps Engineer with 4+ years of experience working across AW
 | AWS Certified Solutions Architect – Associate | Amazon Web Services | ✅ Active | Mar/2026*       |
 | Java Full Stack Certification              | Wipro                  | ✅ Active | No Expiry       |
 
-  </style>
+
+  ### 💻 Programming Languages
+C, Python, JavaScript, Java, OOPs, Bash/Shell
+
+### 🗄️ Database Systems
+MySQL, PostgreSQL, MongoDB, DynamoDB, Amazon RDS, Aurora, ElastiCache
+
+### ☁️ Cloud Platforms & Services
+```yaml
+AWS Core Services:
+  Compute: [EC2, Lambda, ECS Fargate, Auto Scaling, Elastic Beanstalk]
+  Storage: [S3, EFS, EBS]
+  Database: [RDS, DynamoDB, Aurora, ElastiCache, Redshift]
+  Networking: [VPC, CloudFront, Route 53, API Gateway, Elastic Load Balancer (ALB/NLB)]
+  Security: [IAM, CloudTrail, KMS, Secrets Manager]
+  DevOps: [CloudFormation, Systems Manager, CodePipeline, CodeBuild, CodeDeploy, CodeCommit, CloudWatch]
+
+</style>
 </head>
 <body>
   <header>
