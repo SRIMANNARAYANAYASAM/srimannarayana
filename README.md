@@ -24,13 +24,15 @@
 I am a Multi-Cloud DevOps Engineer with 4+ years of experience working across AWS, Azure, and GCP. My expertise includes automation, CI/CD pipelines, and Infrastructure as Code to build scalable and secure cloud solutions. I focus on DevSecOps practices, ensuring security is integrated into every stage of development. Passionate about optimizing cloud infrastructure, I thrive on delivering reliable, cost-efficient, and high-performing systems.
 
 ```yaml
-AWS Core Services:
-  Compute: [EC2, Lambda, ECS Fargate, Auto Scaling, Elastic Beanstalk]
-  Storage: [S3, EFS, EBS,]
-  Database: [RDS, DynamoDB, Aurora, ElasticCache, redshit]
-  Networking: [VPC, CloudFront, Route 53, API Gateway, Elastic Load Balancer (ALB/NLB), ]
-  Security: [IAM, CloudTrail, KMS, Secrets Manager]
-  DevOps: [CloudFormation, Systems Manager, CodePipeline,AWS CodeBuild, AWS CodeDeploy, AWS CodeCommit Amazon CloudWatch]
+Programming Languages: C, Python, JavaScript, Java, OOPs, Bash/Shell.
+Database Systems: MySQL, PostgreSQL, MongoDB, DynamoDB, Amazon RDS, Aurora, ElastiCache
+Cloud Platforms & Services: AWS (EC2, S3, RDS, Aurora, EFS, ElastiCache, Route 53, CloudFront, IAM, VPC, ELB, Auto Scaling, Lambda, ECS/EKS Fargate, Secrets Manager), Azure, GCP.
+DevOps & Automation: Git (GitHub, GitLab, Bitbucket), Maven, CI/CD (Jenkins, GitHub Actions, GitLab CI, Bamboo), Infrastructure (Terraform, CloudFormation, Ansible, Puppet, Chef), ArgoCD, Selenium, Nagios, Jira, Confluence, Bash/Shell scripting.
+Containers & Orchestration: Docker, Kubernetes (EKS, AKS, GKE), Helm, Blue-Green & Canary Deployments, OpenShift, Docker Hub
+Monitoring & Logging: Prometheus, Grafana, AWS CloudWatch, ELK (Elasticsearch, Logstash, Kibana), Loki, Splunk, Datadog, New Relic
+Security & Networking: IAM, AWS KMS, Vault, SGs, NACLs, VPN/IPSec, Firewall, SSL/TLS, Compliance & Auditing, Secrets Manager
+Other Tools: SonarQube, Trivy, Redis, Nexus/Artifactory, OpenCV, Q-learning, PID Control.
+
 ```
 
 
